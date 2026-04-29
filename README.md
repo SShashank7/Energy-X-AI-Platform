@@ -19,16 +19,16 @@ cloud-based architecture.
 ## 🎯 Objectives
 
 Primary Objectives:
- Reduce operational downtime through predictive maintenance
- Detect and prevent fraudulent financial transactions
- Improve demand forecasting accuracy for better inventory planning
- Enhance customer experience through personalization and recommendations
+1. Reduce operational downtime through predictive maintenance
+2. Detect and prevent fraudulent financial transactions
+3. Improve demand forecasting accuracy for better inventory planning
+4. Enhance customer experience through personalization and recommendations
 
 Key Performance Indicators (KPIs):
- 15–20% reduction in equipment downtime
- 10–15% reduction in fraud-related losses
- 10–15% improvement in demand forecast accuracy
- 8–12% increase in sales conversion rates
+1. 15–20% reduction in equipment downtime
+2. 10–15% reduction in fraud-related losses
+3. 10–15% improvement in demand forecast accuracy
+4. 8–12% increase in sales conversion rates
 
 
 ---
@@ -42,7 +42,3 @@ Key Performance Indicators (KPIs):
 | Sales      | Demand Forecasting     | Regression 
 | Sales      | Customer Segmentation  | Clustering 
 | Sales      | Recommendation System  | Collaborative Filtering 
-
----
-
-## 🏗️ Architecture
