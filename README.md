@@ -8,9 +8,9 @@
 The EnergyX AI Platform is a domain-agnostic, enterprise-grade data and
 machine learning platform designed to unify multiple business functions within
 an energy organization, including:
- Operations (Asset & Equipment Monitoring)
- Finance (Transaction Processing & Risk Management)
- Sales (Customer & Product Analytics)
+--> Operations (Asset & Equipment Monitoring)
+-->Finance (Transaction Processing & Risk Management)
+-->Sales (Customer & Product Analytics)
 The platform enables data-driven decision-making by transforming raw, multisource data into actionable insights and predictive intelligence using scalable
 cloud-based architecture.
 
